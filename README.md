@@ -5,6 +5,8 @@
 adversarial_training(model, 'Embedding-Token', 0.5)
 ```
 
+使用例子见<a href="https://github.com/bojone/bert4keras/blob/master/examples/task_iflytek_adversarial_training.py">task_iflytek_adversarial_training.py</a>。
+
 ## 介绍
 https://kexue.fm/archives/7234
 
